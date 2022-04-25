@@ -1,12 +1,10 @@
 package main
 
 import (
-	"greeting"
+	"golang_studying/greeting"
 )
 
 func main() {
 	greeting.Hello()
 	greeting.Hi()
-	//deutsch.Hallo()
-	//deutsch.GutenTag()
 }
