@@ -1,8 +1,8 @@
 package main
 
 import (
-	"dates"
 	"fmt"
+	"github.com/luchanos/golang_studying/heads_first/dates"
 )
 
 func main() {
