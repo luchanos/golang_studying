@@ -1,4 +1,4 @@
-package mock
+package greeting
 
 import "fmt"
 
